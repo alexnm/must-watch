@@ -11,3 +11,4 @@ A compilation of the most memorable talks on software engineering, in arbitrary 
 * [Implementing Programmer Anarchy - **Fred George**](https://www.youtube.com/watch?v=tIxHmsWCd7g)
 * [A Cartoon Intro to WebAssembly - **Lin Clark**](https://www.youtube.com/watch?v=HktWin_LPf4)
 * [Hot Garbage Clean Code is Dead - **Michael Chan**](https://www.youtube.com/watch?v=-NP_upexPFg)
+* [Livable Code - **Sarah Mei**](https://www.youtube.com/watch?v=8_UoDmJi7U8)
